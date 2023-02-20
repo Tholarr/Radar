@@ -13,4 +13,4 @@ Just execute the following command :
 ## Usage
 Execute the program with the following command :
 
-    ./my_radar
+    ./my_radar script
